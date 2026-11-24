@@ -1,0 +1,20 @@
+{
+    "id": "quicknotes",
+    "version": "1.0.0",
+    "name": "Quick Notes",
+    "description": "Simple Notes App for Learning HumHub",
+    "humhub": {
+        "minVersion": 1.18
+    },
+    "keywords": ["notes", "test"],
+    "authors": [
+        {
+            "name": "Deepak Kumar",
+            "role": "Developer"
+        },
+        {
+            "name": "Hina Firdaus",
+            "role": "Evaluator"
+        }
+    ]
+}
